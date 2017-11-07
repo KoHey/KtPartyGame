@@ -55,9 +55,9 @@
             android:layout_width="100dp"
             android:layout_height="100dp"
             android:layout_column="2"
-            android:layout_row="0"
             android:layout_margin="5dp"
-            app:srcCompat="@drawable/human"/>
+            android:layout_row="0"
+            app:srcCompat="@drawable/human" />
 
 
         <ImageView
